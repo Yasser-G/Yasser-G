@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there, I'm Yasser 👋
 
-<!--
-**Yasser-G/Yasser-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Developer | Tech Enthusiast | Problem Solver**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+
+![Yasser's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yasser-G&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasser-G&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Yasser-G&theme=radical)
+
+---
+
+### 🌟 About Me
+- 💡 Passionate about technology and software development.
+- 🏆 Always learning and improving my skills.
+- 🤝 Open to collaborations on interesting projects.
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Yasser-G&color=blue)
