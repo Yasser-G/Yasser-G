@@ -12,13 +12,3 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Yasser-G&theme=radical)
 
----
-
-### 🌟 About Me
-- 💡 Passionate about technology and software development.
-- 🏆 Always learning and improving my skills.
-- 🤝 Open to collaborations on interesting projects.
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=Yasser-G&color=blue)
